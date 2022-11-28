@@ -40,3 +40,5 @@ let numArray = [1, 3, 5, 434 ,434324 , 293810, "String Value"];
 for(let i=0; i < numArray.length; i++){
     console.log(numArray[i]);
 }
+
+console.log(bject);
